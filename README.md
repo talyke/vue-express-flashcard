@@ -1,7 +1,9 @@
+#talyke or tPebbles
+
 # vue-express-flashcard
 
 > flashcards
-
+# Working in building flashcard applet that can be modified for people using it. Like sticky notes works on MS sort of. Just spent today configuring server for VueJS and Express.
 ## Build Setup
 
 ``` bash
