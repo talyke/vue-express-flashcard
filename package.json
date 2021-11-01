@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "exxpress": "^1.0.0",
+    "js-yaml": "^4.1.0",
     "node": "^17.0.1",
     "vue": "^2.5.11",
     "vue-server-renderer": "^2.6.14"
