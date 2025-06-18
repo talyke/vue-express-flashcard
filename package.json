@@ -37,7 +37,7 @@
     "vue-template-compiler": ">=3.0.0",
     "webpack": "^5.60.0",
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.3.1",
+    "webpack-dev-server": "^5.2.1",
     "color-string": ">=1.5.5",
     "is-svg": ">=4.2.2"
   }
